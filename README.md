@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! 🇧🇷</h2>
+<h2 align="left">Hi i'm Julia 👋 learning code and trying not to overthink everything :v </h2>
 
 ###
 
